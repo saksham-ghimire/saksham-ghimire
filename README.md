@@ -1,6 +1,6 @@
 ### Hi there 👋, Saksham Ghimire
 #### Software Developer and Content Creator
-![Software Developer and Content Creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Developer and Content Creator](https://github.com/saksham-ghimire/saksham-ghimire/blob/main/Screenshot_228.png)
 
 I am software engineer who develops integrated automated solutions for your domain. My prior approach to computer science as cybersecurity enthusiastic have helped me develop fair amount of knowledge about security operations.
 
