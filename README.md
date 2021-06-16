@@ -32,6 +32,7 @@ I am software engineer who develops integrated automated solutions for your doma
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Video Frame Transmission USing Python](https://dev.to/sakshamghimire/video-frame-transmission-using-python-5h36)
 <!-- BLOG-POST-LIST:END -->
 
 ### Github Stats
