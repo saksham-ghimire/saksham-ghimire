@@ -1,5 +1,8 @@
 ### Hi there, I am saksham 👋 👨‍💻
 
+"Persistance is key to programming", with that firm believe i have worked and gained experience as developer for more than 2 years. While pursuing path of programming with prior specialization in web development, I now specialize in software and security tools development as well. I also have experience in field of cyber-security and vulnerability assessments considering my majors as B.sc. in Networking and Cyber-security. With keen interest in machine learning i have enrolled myself in multiples opensource machine learning projects.
+
+[![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=saksham-ghimire)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **saksham-ghimire/saksham-ghimire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
