@@ -1,6 +1,8 @@
 ### Hi there, I am saksham 👋 👨‍💻
 
-"Persistance is key to programming", with that firm believe i have worked and gained experience as developer for more than 2 years. While pursuing path of programming with prior specialization in web development, I now specialize in software and security tools development as well. I also have experience in field of cyber-security and vulnerability assessments considering my majors as B.sc. in Networking and Cyber-security. With keen interest in machine learning i have enrolled myself in multiples opensource machine learning projects.
+I am software engineer who develops integrated automated solutions for your domain. My prior approach to computer science as cybersecurity enthusiastic have helped me develop fair amount of knowledge about security operations.
+
+Visit my website at: 🌐 saksham-ghimire.github.io
 
 [![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=saksham-ghimire)](https://github.com/anuraghazra/github-readme-stats)
 <!--
