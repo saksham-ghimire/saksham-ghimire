@@ -7,7 +7,7 @@ I am software engineer who develops integrated automated solutions for your doma
 
 🌐 [saksham-ghimire.github.io](https://saksham-ghimire.github.io/)
 
-### Blogs posts
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
