@@ -27,7 +27,7 @@ I am software engineer who develops integrated automated solutions for your doma
 
 ### 👨‍💻 Github stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-ghimire&show_icons=true&locale=en&layout=compact" alt="saksham-ghimire" /></p>\
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-ghimire&show_icons=true&locale=en&layout=compact" alt="saksham-ghimire" /></p>  
 
 ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham-ghimire&show_icons=true&locale=en" alt="saksham-ghimire" /></p>
