@@ -11,7 +11,6 @@ I am software engineer who develops integrated automated solutions for your doma
 <!-- BLOG-POST-LIST:START -->
 - [Log Visualization](https://gsakshyam3.medium.com/log-visualization-2b029d53645a?source=rss-7bb029170d5e------2)
 - [Imports in python](https://gsakshyam3.medium.com/imports-in-python-6e7025bf4ab2?source=rss-7bb029170d5e------2)
-- [Video Frame Transmission USing Python](https://dev.to/sakshamghimire/video-frame-transmission-using-python-5h36)
 - [Video Frame Transmission using Python](https://gsakshyam3.medium.com/video-frame-transmission-using-python-5dd835b000f0?source=rss-7bb029170d5e------2)
 <!-- BLOG-POST-LIST:END -->
 
